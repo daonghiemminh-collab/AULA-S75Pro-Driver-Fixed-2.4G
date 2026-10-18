@@ -1,0 +1,12 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs and crash dumps
+*.log
+*.dmp
+
+# Uninstaller temporary files if any
+unins000.*
